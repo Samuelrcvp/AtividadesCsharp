@@ -1,0 +1,15 @@
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\bin\Debug\net7.0\Lista6ex2.exe
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\bin\Debug\net7.0\Lista6ex2.deps.json
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\bin\Debug\net7.0\Lista6ex2.runtimeconfig.json
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\bin\Debug\net7.0\Lista6ex2.dll
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\bin\Debug\net7.0\Lista6ex2.pdb
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.AssemblyInfo.cs
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.dll
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\refint\Lista6ex2.dll
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.pdb
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\Lista6ex2.genruntimeconfig.cache
+C:\Users\user\Documents\PUC-DEV\ATP-Michele\Lista6\Lista6ex2\Lista6ex2\obj\Debug\net7.0\ref\Lista6ex2.dll
